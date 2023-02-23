@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flask, Javascript**
 
-- 📫 How to reach me **herberthomolka0@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
