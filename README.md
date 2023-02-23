@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Herbert Homolka</h1>
 <h3 align="center">A hobbyist python developer attending a WebDev Bootcamp.</h3>
 
+  <img align="right" alt="This is me!" width="400" height="300" src ="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=400x300"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herberthomolka1&label=Profile%20views&color=0e75b6&style=flat" alt="herberthomolka1" /> 
 
-- 🌱 I’m currently learning **Flask, Javascript**
+-  I’m currently learning **Flask, Javascript**
+-  I'm attending HackYourFuture Belgium
 
 
-  <img align="right" alt="This is me!" width="400" height="400" src ="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=400x300"/>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
