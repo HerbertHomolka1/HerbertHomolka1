@@ -9,8 +9,6 @@ I'm a hobbyist Python programmer, tinkering with Kivy, Flask, and other Python l
 <p>
 I am excited to be part of the programming community and look forward to learning and sharing my experiences with fellow enthusiasts. Also I am a firm believer in the zen of python:
 </p>
-<br>
-<br>
 
 <blockquote>
   Beautiful is better than ugly. <br>
@@ -18,6 +16,7 @@ I am excited to be part of the programming community and look forward to learnin
   Simple is better than complex. <br>
   Complex is better than complicated.<br>
 </blockquote>
+<br>
 
 <p>
   Here's some random rambling:
