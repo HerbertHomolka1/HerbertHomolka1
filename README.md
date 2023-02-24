@@ -4,10 +4,7 @@
 
   <img align="right" alt="This is me!" width="400" height="300" src ="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=400x300"/>
 <p>
-My name is Herbert, and I am a passionate hobbyist Python programmer. I have a special interest in exploring the potential of various Python libraries, including Kivy and Flask, to create dynamic and engaging web applications. Alongside Python, I also have experience working with JavaScript and HTML, which I leverage in my programming projects.
-</p>
-<p>
-Apart from programming, I have a couple of other hobbies that keep me engaged. One of them is chess, which I love to play in my free time to sharpen my problem-solving skills. Another hobby that I enjoy is cycling, which not only helps me stay physically fit but also gives me a chance to explore new places and take in the beauty of nature.
+I'm a hobbyist Python programmer, tinkering with Kivy, Flask, and other Python libraries. Occasionally, I use JavaScript and HTML. In addition to programming, I enjoy playing chess and cycling.
 </p>
 <p>
 I am excited to be part of the programming community and look forward to learning and sharing my experiences with fellow enthusiasts. Also I am a firm believer in the zen of python:
@@ -21,11 +18,18 @@ I am excited to be part of the programming community and look forward to learnin
   Complex is better than complicated.
 </blockquote>
  
+<p> 
+  Here's some random rambling:
+  <ul>
+    <li>I love the sunshine, but <a href="https://www.youtube.com/watch?v=lZ8zu1aRYA8&ab_channel=TakuyaKuroda-Topic">doesn't everybody? </li>
+    <li>I've been exploring ChatGPT lately. Truly impresive. I had it write my introduction. I wonder what's it going to be like in 5 years. </li>
+    <li>Zen of python says there should be only one way to do something. If so, why do Map, filter and reduce functions exist then? I use comprehensions instead. :sunglasses: </li>
+  </ul>
+</p>
 
 
 
-
-<h3 align="center"> Languages and Tools:</h3>
+<h3 align="center"> Here are the languages and Tools I know:</h3>
 
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://kivy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/58/Kivy_logo.png" alt="kivy" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
