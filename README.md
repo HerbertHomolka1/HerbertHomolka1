@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm <i>Herbert Homolka</i> </h1>
 <h3 align="center">A hobbyist python developer attending a WebDev Bootcamp.</h3>
+<br>
 
 <img align="right" alt="This is me!" width="400" height="300" src ="https://cdn.dribbble.com/users/1787323/screenshots/7003575/media/f09620a77deb456e82968e482130ef0f.png?compress=1&resize=400x300"/>
 <p>
@@ -8,12 +9,14 @@ I'm a hobbyist Python programmer, tinkering with Kivy, Flask, and other Python l
 <p>
 I am excited to be part of the programming community and look forward to learning and sharing my experiences with fellow enthusiasts. Also I am a firm believer in the zen of python:
 </p>
+<br>
+<br>
 
-<blockquote align="center">
+<blockquote>
   Beautiful is better than ugly. <br>
   Explicit is better than implicit. <br>
   Simple is better than complex. <br>
-  Complex is better than complicated.
+  Complex is better than complicated.<br>
 </blockquote>
 
 <p>
