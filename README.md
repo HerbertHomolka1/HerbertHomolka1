@@ -22,7 +22,6 @@ I am excited to be part of the programming community and look forward to learnin
   Here's some random rambling:
   <ul>
     <li>I love the sunshine, but <a href="https://www.youtube.com/watch?v=lZ8zu1aRYA8&ab_channel=TakuyaKuroda-Topic">doesn't everybody?</a> </li>
-    <li>I've been exploring ChatGPT lately. Truly impresive. I had it write my introduction. I wonder what's it going to be like in 5 years. </li>
     <li>Zen of python says there should be only one way to do something. If so, why do Map, filter and reduce functions exist then? I use comprehensions instead. :sunglasses: </li>
   </ul>
 </p>
